@@ -230,7 +230,7 @@ a{
     background-color:black;
     color: #fff;
     text-align: center;
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     align-items: center;
     margin-top: 70px;
