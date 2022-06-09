@@ -123,7 +123,7 @@ a{
 .main-content{
     max-width: auto;
     background-color: #fff;
-    height: 870px;
+    height: 900px;
     margin-top: 600px;
 }
 
@@ -208,4 +208,52 @@ a{
     text-align: right;
     margin-top: -38px;
     margin-right: 17px;
+}
+
+/* .section2-about{
+    max-width: auto;
+    background-color: #fff;
+    height: 700px;  
+}
+
+.section2-about{
+    background-image: url("images/Layer\ 2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 70px;
+} */
+
+.section2-about{
+    height: 845px;
+    background-image: url("images/bg-about.png");
+    background-position: center;
+    background-color:black;
+    color: #fff;
+    text-align: center;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.content-sec2{
+    padding-top: 250px;
+}
+
+.content-sec2 .sec2-title{
+    font-weight: lighter;
+    font-size: 51px;
+    text-align: center;
+
+}
+
+.content-sec2 .sec2-subtitle{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: -50px;
+}
+
+.content-sec2 .sec2-pharap{
+    font-size: 18px;
+    margin-top: 50px;
 }
